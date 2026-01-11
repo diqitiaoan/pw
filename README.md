@@ -1,11 +1,6 @@
-# 干掉付费墙
-这个库是一些扩展的集合。
+
 ## bypass-paywalls
-这个插件十分有用，对绝大多数常见英文媒体都有效。（华尔街日报抽风时可以用下面的油猴脚本，经济学人只需要把javascript禁用就行了）  
-这是原本的repo链接 https://github.com/iamadamdev/bypass-paywalls-chrome  
-我也fork了一下，https://github.com/sherpahu/bypass-paywalls-chrome  
-防止被删，也建议各位fork一下。  
-这里也上传了一份，侵删。  
+对绝大多数常见英文媒体都有效。（华尔街日报抽风时可以用下面的油猴脚本，经济学人只需要把javascript禁用就行了）  
 
 ## 媒体付费墙杀手
 这个插件原理很简单，针对不同强度的付费墙，分别进行不同的网页设置。  
@@ -29,3 +24,4 @@ bypass-paywalls有时候抽风（华尔街日报可能会禁掉Facebook、Twitte
 
 
 所有插件仅供中国大陆地区公民个人学习使用，切勿商用！  
+
